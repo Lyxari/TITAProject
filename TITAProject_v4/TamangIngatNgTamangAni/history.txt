@@ -1,0 +1,697 @@
+[2026-10-08 20:29:03] BATCH ADDED
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:29:37] BATCH ADDED
+Batch ID: BR0001
+Grain Type: Rice (Dinorado)
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:30:50] BATCH ADDED
+Batch ID: CR0001
+Grain Type: Rice (Jasmine)
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:30:57] BATCH ADDED
+Batch ID: AC0002
+Grain Type: Corn
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:31:03] BATCH ADDED
+Batch ID: AM0003
+Grain Type: Mungbean
+Quantity: 40.0 kg
+Sacks: 1 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:31:11] BATCH ADDED
+Batch ID: BM0002
+Grain Type: Mungbean
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:31:27] BATCH ADDED
+Batch ID: CM0002
+Grain Type: Mungbean
+Quantity: 100.0 kg
+Sacks: 2 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:31:38] BATCH ADDED
+Batch ID: CM0003
+Grain Type: Mungbean
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:34:23] BATCH ADDED
+Batch ID: AC0004
+Grain Type: Corn
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:34:48] GRAIN RELEASED (FEFO)
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:34:56] GRAIN RELEASED (FEFO)
+Batch ID: AC0004
+Grain Type: Corn
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:34:56] GRAIN RELEASED (FEFO)
+Batch ID: AC0002
+Grain Type: Corn
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:35:06] BATCH ADDED
+Batch ID: AC0005
+Grain Type: Corn
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:35:13] BATCH ADDED
+Batch ID: AM0006
+Grain Type: Mungbean
+Quantity: 170.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:35:26] BATCH ADDED
+Batch ID: BR0003
+Grain Type: Rice (Sinandomeng)
+Quantity: 40.0 kg
+Sacks: 1 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:35:33] BATCH ADDED
+Batch ID: BC0004
+Grain Type: Corn
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:36:37] BATCH ADDED
+Batch ID: BC0005
+Grain Type: Corn
+Quantity: 50.0 kg
+Sacks: 1 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:36:46] BATCH ADDED
+Batch ID: CM0004
+Grain Type: Mungbean
+Quantity: 70.0 kg
+Sacks: 2 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:37:13] GRAIN RELEASED (FEFO)
+Batch ID: AC0002
+Grain Type: Corn
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:37:13] GRAIN RELEASED (FEFO)
+Batch ID: AC0005
+Grain Type: Corn
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:37:32] GRAIN RELEASED (FEFO)
+Batch ID: AM0006
+Grain Type: Mungbean
+Quantity: 170.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:37:49] GRAIN RELEASED (FEFO)
+Batch ID: BC0005
+Grain Type: Corn
+Quantity: 50.0 kg
+Sacks: 1 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:37:49] GRAIN RELEASED (FEFO)
+Batch ID: BC0004
+Grain Type: Corn
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:37:56] GRAIN RELEASED (FEFO)
+Batch ID: BC0004
+Grain Type: Corn
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:38:06] GRAIN RELEASED (FEFO)
+Batch ID: CM0003
+Grain Type: Mungbean
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:38:06] GRAIN RELEASED (FEFO)
+Batch ID: CM0004
+Grain Type: Mungbean
+Quantity: 70.0 kg
+Sacks: 2 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:38:06] GRAIN RELEASED (FEFO)
+Batch ID: CM0002
+Grain Type: Mungbean
+Quantity: 100.0 kg
+Sacks: 2 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:38:18] GRAIN RELEASED (FEFO)
+Batch ID: BR0001
+Grain Type: Rice (Dinorado)
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:38:30] GRAIN RELEASED (FEFO)
+Batch ID: BR0003
+Grain Type: Rice (Sinandomeng)
+Quantity: 40.0 kg
+Sacks: 1 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:38:45] GRAIN RELEASED (FEFO)
+Batch ID: CM0002
+Grain Type: Mungbean
+Quantity: 100.0 kg
+Sacks: 2 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:41:57] GRAIN RELEASED (FEFO)
+Batch ID: AM0003
+Grain Type: Mungbean
+Quantity: 40.0 kg
+Sacks: 1 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:42:06] GRAIN RELEASED (FEFO)
+Batch ID: CR0001
+Grain Type: Rice (Jasmine)
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Silo 3
+----------------------------------------
+[2026-10-08 20:42:13] GRAIN RELEASED (FEFO)
+Batch ID: BM0002
+Grain Type: Mungbean
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-08 20:53:32] BATCH ADDED
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 1.02 kg
+Sacks: 1 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:54:35] GRAIN PARTIALLY RELEASED (FEFO)
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 500.0 kg
+Sacks: 10 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-08 20:54:53] INVENTORY CLEARED
+Batch ID: N/A
+Grain Type: All Grains
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Storage Unit: All Silos
+----------------------------------------
+[2026-10-08 21:57:29] BATCH ADDED
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 19:47:28] BATCH ADDED
+Batch ID: AR0002
+Grain Type: Rice (Sinandomeng)
+Quantity: 100.0 kg
+Sacks: 2 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 19:48:35] GRAIN RELEASED (FEFO)
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 120.0 kg
+Sacks: 3 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 19:48:55] BATCH ADDED
+Batch ID: AR0003
+Grain Type: Rice (Dinorado)
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 21:29:08] GRAIN RELEASED (FEFO)
+Batch ID: AR0002
+Grain Type: Rice (Sinandomeng)
+Quantity: 100.0 kg
+Sacks: 2 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 21:29:18] BATCH ADDED
+Batch ID: AC0004
+Grain Type: Corn
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 21:29:36] BATCH ADDED
+Batch ID: AM0005
+Grain Type: Mungbean
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 21:29:43] BATCH ADDED
+Batch ID: AM0006
+Grain Type: Mungbean
+Quantity: 700.0 kg
+Sacks: 14 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 21:30:13] BATCH ADDED
+Batch ID: AR0007
+Grain Type: Rice (Jasmine)
+Quantity: 270.0 kg
+Sacks: 6 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 21:30:29] BATCH ADDED
+Batch ID: AR0008
+Grain Type: Rice (Sinandomeng)
+Quantity: 450.0 kg
+Sacks: 9 sacks
+Storage Unit: Silo 1
+----------------------------------------
+[2026-10-13 21:30:52] BATCH ADDED
+Batch ID: BR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 500.0 kg
+Sacks: 10 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-13 21:31:26] BATCH ADDED
+Batch ID: BR0002
+Grain Type: Rice (Dinorado)
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Silo 2
+----------------------------------------
+[2026-10-13 21:32:03] INVENTORY CLEARED
+Batch ID: N/A
+Grain Type: All Grains
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Storage Unit: All Silos
+----------------------------------------
+[2026-10-15 12:59:01] BATCH ADDED
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 500.0 kg
+Sacks: 10 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 13:03:14] STOCK ADJUSTED (Pest / Spoilage Removal)
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 21:05:17] BATCH ADDED
+Batch ID: BR0001
+Grain Type: Rice (Dinorado)
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Storage Unit: Warehouse 2
+----------------------------------------
+[2026-10-15 21:05:58] STOCK ADJUSTED (Pest / Spoilage Removal)
+Batch ID: AR0001
+Grain Type: Rice (Sinandomeng)
+Quantity: 280.0 kg
+Sacks: 6 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:18:10] BATCH ADDED
+Batch ID: AC0002
+Grain Type: Corn
+Quantity: 350.0 kg
+Sacks: 7 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:18:23] BATCH ADDED
+Batch ID: AM0003
+Grain Type: Mungbean
+Quantity: 600.0 kg
+Sacks: 12 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:18:46] BATCH ADDED
+Batch ID: AR0004
+Grain Type: Rice (Jasmine)
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:18:58] BATCH ADDED
+Batch ID: AC0005
+Grain Type: Corn
+Quantity: 30.0 kg
+Sacks: 1 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:23:10] BATCH ADDED
+Batch ID: AC0006
+Grain Type: Corn
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:23:27] BATCH ADDED
+Batch ID: AR0007
+Grain Type: Rice (Dinorado)
+Quantity: 70.0 kg
+Sacks: 2 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:23:38] BATCH ADDED
+Batch ID: AM0008
+Grain Type: Mungbean
+Quantity: 500.0 kg
+Sacks: 10 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:27:56] BATCH ADDED
+Batch ID: AR0009
+Grain Type: Rice (Jasmine)
+Quantity: 600.0 kg
+Sacks: 12 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:33:16] BATCH ADDED
+Batch ID: AC0010
+Grain Type: Corn
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:33:24] BATCH ADDED
+Batch ID: AM0011
+Grain Type: Mungbean
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:33:33] BATCH ADDED
+Batch ID: AR0012
+Grain Type: Rice (Jasmine)
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:33:47] BATCH ADDED
+Batch ID: AR0013
+Grain Type: Rice (Dinorado)
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:35:27] GRAIN RELEASED (FEFO)
+Batch ID: AR0012
+Grain Type: Rice (Jasmine)
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:35:27] GRAIN RELEASED (FEFO)
+Batch ID: AR0009
+Grain Type: Rice (Jasmine)
+Quantity: 600.0 kg
+Sacks: 12 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:35:27] GRAIN RELEASED (FEFO)
+Batch ID: AR0004
+Grain Type: Rice (Jasmine)
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:35:44] GRAIN RELEASED (FEFO)
+Batch ID: AR0013
+Grain Type: Rice (Dinorado)
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:35:44] GRAIN RELEASED (FEFO)
+Batch ID: AR0007
+Grain Type: Rice (Dinorado)
+Quantity: 70.0 kg
+Sacks: 2 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:35:53] GRAIN RELEASED (FEFO)
+Batch ID: AR0007
+Grain Type: Rice (Dinorado)
+Quantity: 70.0 kg
+Sacks: 2 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:36:04] GRAIN RELEASED (FEFO)
+Batch ID: AC0005
+Grain Type: Corn
+Quantity: 30.0 kg
+Sacks: 1 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:36:04] GRAIN RELEASED (FEFO)
+Batch ID: AC0006
+Grain Type: Corn
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:36:04] GRAIN RELEASED (FEFO)
+Batch ID: AC0002
+Grain Type: Corn
+Quantity: 350.0 kg
+Sacks: 7 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:36:27] GRAIN RELEASED (FEFO)
+Batch ID: AC0006
+Grain Type: Corn
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:36:27] GRAIN RELEASED (FEFO)
+Batch ID: AC0002
+Grain Type: Corn
+Quantity: 350.0 kg
+Sacks: 7 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:36:46] GRAIN RELEASED (FEFO)
+Batch ID: AC0002
+Grain Type: Corn
+Quantity: 350.0 kg
+Sacks: 7 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:39:49] INVENTORY CLEARED
+Batch ID: N/A
+Grain Type: All Grains
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Storage Unit: All Warehouses
+----------------------------------------
+[2026-10-15 23:44:05] BATCH ADDED
+Batch ID: AR0001
+Grain Type: Rice (Jasmine)
+Quantity: 350.0 kg
+Sacks: 7 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:45:06] GRAIN RELEASED (FEFO)
+Batch ID: AR0001
+Grain Type: Rice (Jasmine)
+Quantity: 350.0 kg
+Sacks: 7 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:45:27] BATCH ADDED
+Batch ID: AR0002
+Grain Type: Rice (Jasmine)
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:45:41] BATCH ADDED
+Batch ID: AR0003
+Grain Type: Rice (Dinorado)
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:46:07] BATCH ADDED
+Batch ID: AR0004
+Grain Type: Rice (Sinandomeng)
+Quantity: 550.0 kg
+Sacks: 11 sacks
+Storage Unit: Warehouse 1
+----------------------------------------
+[2026-10-15 23:46:19] BATCH ADDED
+Batch ID: BC0001
+Grain Type: Corn
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 2
+----------------------------------------
+[2026-10-15 23:46:29] BATCH ADDED
+Batch ID: BC0002
+Grain Type: Corn
+Quantity: 300.0 kg
+Sacks: 6 sacks
+Storage Unit: Warehouse 2
+----------------------------------------
+[2026-10-15 23:46:39] BATCH ADDED
+Batch ID: CM0001
+Grain Type: Mungbean
+Quantity: 400.0 kg
+Sacks: 8 sacks
+Storage Unit: Warehouse 3
+----------------------------------------
+[2026-10-15 23:46:47] BATCH ADDED
+Batch ID: CM0002
+Grain Type: Mungbean
+Quantity: 700.0 kg
+Sacks: 14 sacks
+Storage Unit: Warehouse 3
+----------------------------------------
+[2026-10-21 20:38:58] ADMIN ACCOUNT SET UP
+Batch ID: N/A
+Grain Type: N/A
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Details: WARNING: users.dat was missing while inventory/history data existed
+Storage Unit: N/A
+User: Admin
+Hash: a618fc87797f3aa5a6e0261e838565a8af3bde96794f1a37107fa7eb1f3525ad
+----------------------------------------
+[2026-10-21 20:39:03] USER LOGGED IN
+Batch ID: N/A
+Grain Type: N/A
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Details: Role: Admin
+Storage Unit: N/A
+User: Admin
+Hash: 373c67edc4276d2ad69851d40d5c6ff32dd391ee1eb183957bf08fe31a18927b
+----------------------------------------
+[2026-10-21 20:40:45] USER ADDED
+Batch ID: N/A
+Grain Type: N/A
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Details: Account: Evan_Ebuen | Role: Staff
+Storage Unit: N/A
+User: Admin
+Hash: f028bf5488cb749a7cf9fbadfe14dd6166f091c10a4616d6d2b7a7c5154a2c1d
+----------------------------------------
+[2026-10-21 20:41:00] USER LOGGED OUT
+Batch ID: N/A
+Grain Type: N/A
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Storage Unit: N/A
+User: Admin
+Hash: 6d1ca98c6ccd4d0c8fad003d43d22cdcfa4761a17cbfbc0a868383ca47672677
+----------------------------------------
+[2026-10-21 20:41:07] USER LOGGED IN
+Batch ID: N/A
+Grain Type: N/A
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Details: Role: Staff
+Storage Unit: N/A
+User: Evan_Ebuen
+Hash: 11371c2745ebee745aeff897782ca369a7c0ebb7d1d73f1bc7dee352b44d5f19
+----------------------------------------
+[2026-10-21 20:42:45] BATCH ADDED
+Batch ID: AR0014
+Grain Type: Rice (Well-milled)
+Quantity: 200.0 kg
+Sacks: 4 sacks
+Details: Shelf life: 200 days | Expiry: 2027-05-09
+Storage Unit: Warehouse 1
+User: Evan_Ebuen
+Hash: b8addf91070d76f1829edd35d761ddf4287a84e794d84b1f492a3a113b223b7a
+----------------------------------------
+[2026-10-21 20:44:47] PARTIAL WRITE-OFF (Water / Flood Damage)
+Batch ID: AR0014
+Grain Type: Rice (Well-milled)
+Quantity: 150.0 kg
+Sacks: 3 sacks
+Change: Disposed 150.0 kg (3 sacks); 50.0 kg left in batch
+Storage Unit: Warehouse 1
+User: Evan_Ebuen
+Hash: e56f13445ae69c6d87d62c21006853bf0d68304b67a89976a58e768ffcc98c5d
+----------------------------------------
+[2026-10-21 20:45:10] USER LOGGED OUT
+Batch ID: N/A
+Grain Type: N/A
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Storage Unit: N/A
+User: Evan_Ebuen
+Hash: 3e562e6fd646e8a2516f859deebbeb30d34680e9c3b0668b1fe3f97901685595
+----------------------------------------
+[2026-10-21 20:45:17] USER LOGGED IN
+Batch ID: N/A
+Grain Type: N/A
+Quantity: 0.0 kg
+Sacks: 0 sacks
+Details: Role: Admin
+Storage Unit: N/A
+User: Admin
+Hash: 926851c36b3aff8133c50b8ccb7e5d7a1d7e5166be2cb1ae2e339f3d1bfb3d41
+----------------------------------------
